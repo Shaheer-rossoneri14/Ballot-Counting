@@ -1,0 +1,2 @@
+# Ballot-Counting
+The polls are stored in a list in the received order. Then two lists are created, which store the candidate names and the number of votes of the corresponding candidate. The program can determine the number of candidates from the list of polls. Finally, the candidates with the highest vote are displayed. The program can show two or more candidates when they all have the same highest votes.
